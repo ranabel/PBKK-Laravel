@@ -4,10 +4,12 @@
 | Week 3 PBKK |
 
 
-`Chapter 2`
+`Chapter 3`
 
 - View Data
-- Model
+- Model <br>
+
+`LARAVEL PROJRCT`
 
 - Screenshoot 
     ![Alt text](./image0.png)
@@ -15,49 +17,33 @@
     ![Alt text](./image2.png)
     ![Alt text](./image3.png)
     ![Alt text](./image4.png)
-    ![Alt text](./image5.png)
-    ![Alt text](./image6.png)
+    ![Alt text](./image5.png)    
 
 - Explain UI
-
-    1. Main Navigation Bar <br>
-        - Position: The navigation bar is located at the top of every page, with a dark background (dark theme).<br>
-        - Navigation Elements: The navigation bar contains several links that direct the user to different sections of the website:<br>
-        - Home: The main homepage.<br>
-        - Blog: A page for blog posts.<br>
-        - About: An "About" page with information.<br>
-        - Contact: A contact page.<br>
-        - Reports: A page for reports.<br>
-        - Profile Icon: On the right-hand side, there is a user avatar icon, likely indicating a place for profile access or user login functionality.<br>
-    2. Displayed Pages
-    Each page has a clean and simple layout, primarily focusing on textual content with a white background.
-
-        - Home Page <br>
-            Title: "Home Page".<br>
-            Content: A simple message in Indonesian, "Ini adalah Halaman Home Page", which translates to "This is the Home Page."<br>
-            Active Navigation: The "Home" menu item in the navigation bar is highlighted, indicating it is the current page.<br>
-        - Blog Page <br>
-            Title: "Blog".<br>
-            Content: A brief welcome message, "Welcome to my Blog!"<br>
-            Active Navigation: The "Blog" menu item is highlighted, showing that this is the current page.<br>
-        c. About Page<br>
-            Title: "About".<br>
-            Content: The page displays "Halaman About" (translated: "About Page"), and below that is a placeholder for user information, showing "Nama: [User Name]", where "[User Name]" would be replaced by the actual name of the user.<br>
-            Active Navigation: The "About" link in the navigation is highlighted.<br>
-        - Contact Page<br>
-            Title: "Contact".<br>
-            Content: The page only contains simple text: "Halaman Contact", meaning "Contact Page" in Indonesian.<br>
-            Active Navigation: The "Contact" menu is active in the navigation.<br>
-        - Reports Page<br>
-            Title: "Reports".<br>
-            Content: Displays the text "Halaman Reports", which means "Reports Page".<br>
-            Active Navigation: The "Reports" link is highlighted in the navigation bar.<br>
-
-    3. Design and Layout<br>
-        - Minimalist Layout: Each page features a simple design with a white background and black text. The content is displayed in large blocks with ample spacing, creating a clean and readable layout.<br>
-        - Color Theme: The site uses a contrast between the white content background and a dark background for the navigation bar.<br>
-        - Responsive Design: The design appears to be simple and likely responsive, as there are no complex elements like large images or intricate visual effects.<br>
-    4. Possible Purpose<br>
-        - Demo or Practice Site: The website seems to be used as a demonstration or a practice project for creating basic website structures. It shows multiple pages with a consistent layout and simple navigation.<br>
-        - Placeholder Content: The text on each page seems to be placeholder content, meaning that it's likely to be replaced later with real information.<br>
+    1. Header (Navigation Bar): <br>
+    Purpose: Allows users to navigate between different pages (Home, Blog, About, Contact, Reports). <br>
+    Design:    The header contains links to multiple pages (Home, Blog, About, Contact, Reports).<br>
+    It is consistent across all pages, providing easy access to different parts of the website.<br>
+    User Interaction: Users click on each link to visit the respective pages.<br><br>
+    2. Home Page:<br>
+    Purpose: Acts as the landing page with a simple greeting.<br>
+    Design: A centered message: "Ini adalah halaman Home Page," showing a brief welcome message.
+    Minimalist design focused on simplicity and directness.<br><br>
+    3. Blog Page:<br>
+    Purpose: Displays a list of blog articles.<br>
+    Design: Contains titles and previews of two articles: "Judul Artikel 1" and "Judul Artikel 2."<br>
+    Each article preview includes the author's name (Nabilah Alika), a publication date, and a "Read More" link to view the full content.<br>
+    Design follows a clean layout with separate sections for each article.<br><br>
+    4. About Page:<br>
+    Purpose: Provides information about the site or the person managing it.
+    Design: Contains a message: "Nama: Nabilah Alika," offering basic introductory information about the author.<br><br>
+    5. Contact Page:<br>
+    Purpose: Provides a way for users to get in touch.<br>
+    Design: A placeholder message: "Halaman Contact" for now, with the expectation of further contact information or forms in the future.<br><br>
+    6. Reports Page:<br>
+    Purpose: Provides a place to view reports or other documents.<br>
+    Design: A placeholder message: "Halaman Reports" indicating this section is dedicated to reports but hasn't been populated with content yet.<br><br>
+    7. 404 Page: <br>
+    Purpose: Informs users that the requested page or resource could not be found.
+    Design: Clear and Concise Message
 

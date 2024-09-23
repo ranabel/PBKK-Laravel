@@ -1,13 +1,13 @@
 | Nama | NRP |
 | --- |---|
 | Nabilah Atika Rahma | 5025221005 |
-| Week 3 PBKK |
+| Week 4 PBKK |
 
 
-`Chapter 2`
+`Chapter 4`
 
-- View Data
-- Model <br>
+- Database Migration
+- Eloquent ORM & Post Model <br>
 
 `LARAVEL PROJRCT`
 
@@ -18,7 +18,9 @@
     ![Alt text](./image3.png)
     ![Alt text](./image4.png)
     ![Alt text](./image5.png)
+    ![Alt text](./image.png)    
     ![Alt text](./image6.png)
+    ![Alt text](./image7.png)
 
 - Explain UI
     1. Header (Navigation Bar): <br>
@@ -44,7 +46,10 @@
     6. Reports Page:<br>
     Purpose: Provides a place to view reports or other documents.<br>
     Design: A placeholder message: "Halaman Reports" indicating this section is dedicated to reports but hasn't been populated with content yet.<br><br>
-    7. Database View (Admin Panel):<br>
+    7. 404 Page: <br>
+    Purpose: Informs users that the requested page or resource could not be found.
+    Design: Clear and Concise Message
+    8. Database View (Admin Panel):<br>
     Purpose: Shows the database structure for users and blog posts.<br>
     Design: Users Table: Displays user details such as id, name, email, password, and more.<br>
     Posts Table: Displays post details such as id, title, author, slug, and body.
