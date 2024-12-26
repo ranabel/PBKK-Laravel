@@ -20,13 +20,28 @@ class CategorySeeder extends Seeder
 
         Category::create([
             'name' => 'Isekai',
-            'slug' => 'isekai'
+            'slug' => 'isekai',
+            'color' => 'greem'
         ]);
 
         Category::create([
             'name' => 'Wibu',
-            'slug' => 'wibu'
+            'slug' => 'wibu',
+            'color' => 'blue'
         ]);
+
+        Category::create([
+            'name' => 'Kpop',
+            'slug' => 'kpop',
+            'color' => 'red'
+        ]);
+
+        Category::create([
+            'name' => 'Real',
+            'slug' => 'real',
+            'color' => 'yellow'
+        ]);
+
 
     }
 }
